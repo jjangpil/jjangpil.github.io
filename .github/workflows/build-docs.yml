@@ -46,7 +46,7 @@ jobs:
             artifacts/${{ env.ALGOLIA_ARTIFACT }}
           retention-days: 7
       - name: List generated files
-        run: ls -al
+        run: ls artifacts -al
       
   test:
     needs: build
