@@ -6,5 +6,7 @@
                  name="Proto"
                  start-page="starter-topic.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="First-mini-project.md"/>
+    </toc-element>
 </instance-profile>
