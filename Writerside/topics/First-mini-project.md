@@ -1,3 +1,3 @@
-# First mini project
+# mini project
 
 Start typing here...
