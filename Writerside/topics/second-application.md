@@ -1,3 +1,3 @@
-# project
+# second application
 
 Start typing here...
