@@ -7,7 +7,7 @@
     </rule>
     -->
     <rule id="1c59380c">
-        <description>Created after removal of "home" from Proto</description>
+        <description>Created after removal of "home" from Pilsu</description>
         <accepts>home.html</accepts>
     </rule>
 </rules>
