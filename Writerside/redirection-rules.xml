@@ -10,4 +10,16 @@
         <description>Created after removal of "home" from Pilsu</description>
         <accepts>home.html</accepts>
     </rule>
+    <rule id="231e9a69">
+        <description>Created after removal of "Button" from Pilsu</description>
+        <accepts>Button.html</accepts>
+    </rule>
+    <rule id="694401d">
+        <description>Created after removal of "Overview" from Pilsu</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="3123a624">
+        <description>Created after removal of "Section Starting Page" from Pilsu</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
 </rules>
