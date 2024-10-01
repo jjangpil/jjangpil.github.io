@@ -22,4 +22,8 @@
         <description>Created after removal of "Section Starting Page" from Pilsu</description>
         <accepts>Section-Starting-Page.html</accepts>
     </rule>
+    <rule id="4a80bea3">
+        <description>Created after removal of "second application" from Pilsu</description>
+        <accepts>second-application.html</accepts>
+    </rule>
 </rules>

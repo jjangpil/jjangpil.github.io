@@ -1,3 +1,0 @@
-# second application
-
-Start typing here...
