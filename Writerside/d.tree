@@ -12,10 +12,26 @@
         <toc-element topic="Compose-Multiplatform.md"/>
     </toc-element>
     <toc-element topic="정ㄹ.md">
-        <toc-element topic="UI-개발.md" toc-title="UI 개발,경험과 배움">
+        <toc-element toc-title="UI 개발,경험과 배움" topic="UI-개발.md">
             <toc-element topic="Type-기반의-TV-UI-개발.md"/>
-            <toc-element topic="Component-기반의-프레임워크-개발.md">
-            </toc-element>
+            <toc-element topic="Component-기반의-프레임워크-개발.md"/>
+            <toc-element topic="Android-TV-개발.md"/>
+            <toc-element topic="SmartTV-개발.md"/>
         </toc-element>
+        <toc-element topic="Frondend.md">
+            <toc-element topic="EPA-CUP.md"/>
+        </toc-element>
+        <toc-element topic="Frondend-Backend.md">
+            <toc-element topic="게임-VOD-서비스.md"/>
+            <toc-element topic="OTT-플랫폼.md"/>
+            <toc-element topic="KT-업무조율-시스템-MPMS.md"/>
+            <toc-element topic="광고솔루션.md"/>
+            <toc-element topic="라이브커머스.md"/>
+        </toc-element>
+        <toc-element topic="Fullstack-개발.md">
+            <toc-element topic="CJ-헬로비전-분석-시스템.md"/>
+            <toc-element topic="CJ-헬로비전-빅데이터-시스템.md"/>
+        </toc-element>
+        <toc-element topic="프로토타입.md"/>
     </toc-element>
 </instance-profile>
