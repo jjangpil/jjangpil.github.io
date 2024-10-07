@@ -8,7 +8,7 @@
 
     <toc-element topic="starter-topic.md">
     </toc-element>
-    <toc-element topic="정ㄹ.md">
+    <toc-element topic="정리.md">
         <toc-element toc-title="UI 개발" topic="UI-개발.md">
             <toc-element topic="Type-기반의-TV-UI-개발.md"/>
             <toc-element topic="Component-기반의-프레임워크-개발.md"/>
