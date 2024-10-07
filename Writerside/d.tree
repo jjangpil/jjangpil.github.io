@@ -8,11 +8,8 @@
 
     <toc-element topic="starter-topic.md">
     </toc-element>
-    <toc-element topic="First-mini-project.md">
-        <toc-element topic="Compose-Multiplatform.md"/>
-    </toc-element>
     <toc-element topic="정ㄹ.md">
-        <toc-element toc-title="UI 개발,경험과 배움" topic="UI-개발.md">
+        <toc-element toc-title="UI 개발" topic="UI-개발.md">
             <toc-element topic="Type-기반의-TV-UI-개발.md"/>
             <toc-element topic="Component-기반의-프레임워크-개발.md"/>
             <toc-element topic="Android-TV-개발.md"/>
@@ -33,5 +30,8 @@
             <toc-element topic="CJ-헬로비전-빅데이터-시스템.md"/>
         </toc-element>
         <toc-element topic="프로토타입.md"/>
+    </toc-element>
+    <toc-element topic="First-mini-project.md">
+        <toc-element topic="Compose-Multiplatform.md"/>
     </toc-element>
 </instance-profile>
